@@ -1,6 +1,0 @@
-[submodule "plugins/ipynb"]
-	path = plugins/ipynb
-	url = https://github.com/danielfrg/pelican-ipynb.git
-[submodule "output/output"]
-	path = output/output
-	url = https://github.com/etienneboivin/etienneboivin.github.io.git

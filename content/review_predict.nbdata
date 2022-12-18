@@ -1,7 +1,0 @@
-Title: Yelp Review Ratings Predictor
-Slug: review-predict
-Date: 2022-12-16 12:00
-Category: posts
-tags: python; data; pandas; portfolio; yelp; regression; logistic regression; scikit-learn; linguistic;
-author: Etienne Boivin
-Summary: A prediction of Yelp review ratings based on review text.
