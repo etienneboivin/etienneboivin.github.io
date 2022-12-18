@@ -1,0 +1,7 @@
+Title: Human Activity Classification
+Slug: human-activity
+Date: 2022-11-01 12:00
+Category: posts
+tags: python; data; pandas; portfolio; human activity; knn; nearest neighbors classification; scikit-learn;
+author: Etienne Boivin
+Summary: A classification of smartphone activity data using a K-Nearest Neighbors Classifier.
